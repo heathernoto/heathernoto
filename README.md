@@ -2,17 +2,23 @@
  <img alt="Word Cloud" src= "wordCloud.png" width="600" />   
  
  # Hi, I'm Heather...
- ## I am... ##
  
- ...based in the NYC metro area
+I am...
+ 
+* based in the NYC metro area 🏙️
+* a full stack software engineer focused on the NERD stack 🤓
+* Currently, I'm working on an updated portfolio 🎨
+* I'm learning about cloud storage and GraphQL 🏫
+* I am **always** listening to music. I am currently listening to Crumb 🎵
+* When I am not coding, I am playing with my 🐶, reading 📚, hanging with my 👪
+* Visit my [LinkedIn](https://www.linkedin.com/in/heather-berardo-noto/)
+* Contact me at heather.noto@gmail.com ✉️
+ 
  
 
 
 
 
-
- 🗺️  I'm a full stack software engineer based in the New York Metro Area 🏙️
- 
 
 
 
