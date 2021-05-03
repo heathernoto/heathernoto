@@ -26,13 +26,6 @@ In my senior year of high school, I took a career aptitude test. The nun that ra
 #### Head to my [portfolio](https://heather-berardo-noto.netlify.app/) for some demos 
 #### Visit my [LinkedIn](https://www.linkedin.com/in/heather-berardo-noto/)
 #### Contact me at heather.noto@gmail.com ✉️
-#### Check out my projects below
-
- 
- 
-
-
-
 
 
 
