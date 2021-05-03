@@ -12,7 +12,8 @@
 
 
 ## Want to know more? 
-#### Checkout my projects!
+#### Check out my projects below
+#### Head to my portfolio for some demos [Portfolio](https://heather-berardo-noto.netlify.app/)
 #### Visit my [LinkedIn](https://www.linkedin.com/in/heather-berardo-noto/)
 #### Contact me at heather.noto@gmail.com ✉️
 
