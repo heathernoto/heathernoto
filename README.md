@@ -1,5 +1,5 @@
 
- <img alt="Beltway Bathtub" src= "bathtubHeader.png" width="600" />   
+ <img alt="Word Cloud" src= "wordCloud.png" width="600" />   
  
  # Hi, I'm Heather...
  
