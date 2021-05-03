@@ -14,10 +14,11 @@
 In my senior year of high school, I took a career aptitude test. The nun that ran the guidance office (it was a Catholic school) was very excited because I only had one result show up.  Because these were the olden days, she had to look up the given code to find out what my *perfect* career path would be. She told me that she had never seen a student get only one career as an option from the test, usually it provided a few. I must have found my calling! We both bent over the book, excited to find the match.  What??? Confusion. Looking at each other. Circus performer??  Checking to make sure we used the right code. Yup, circus performer. 😆
 
 ## Want to know more? 
-#### Check out my projects below
+
 #### Head to my [portfolio](https://heather-berardo-noto.netlify.app/) for some demos 
 #### Visit my [LinkedIn](https://www.linkedin.com/in/heather-berardo-noto/)
 #### Contact me at heather.noto@gmail.com ✉️
+#### Check out my projects below
 
  
  
