@@ -1,5 +1,5 @@
 
- <img alt="Heather Berardo Noto" src= "banner2.png" width="600" />   
+ <img alt="Heather Berardo Noto" src= "banner2.png" width="80%"  />   
  
  # Hi, I am...
  
