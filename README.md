@@ -1,4 +1,16 @@
-# Hi, I'm Heather! <img alt="Word Cloud" src= "wordCloud.png" width="400"/>
+
+ <img alt="Word Cloud" src= "wordCloud.png" width="600" />   
+ 
+ # Hi, I'm Heather...
+ ## I am... ##
+ 
+ ...based in the NYC metro area
+ 
+
+
+
+
+
  🗺️  I'm a full stack software engineer based in the New York Metro Area 🏙️
  
 
