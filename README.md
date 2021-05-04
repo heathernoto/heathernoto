@@ -4,11 +4,11 @@
  # Hi, I am...
  
 * based in the NYC metro area 🏙️
-* a full stack software engineer focused on the NERD stack 🤓
-* currently, I'm working on an updated portfolio 🎨
-* expanding my skills.  I'm learning about cloud storage and GraphQL 🏫
-* **always** listening to music. I am currently listening to Crumb 🎵
-* playing with my 🐶, reading 📚, and hanging with my 👪 when I am not coding 💻
+* a full stack software engineer focused on the NERD stack. 🤓
+* currently, I'm working on an updated portfolio. 🎨
+* expanding my skills.  I'm learning about cloud storage and GraphQL and working my way through AlgoExpert.🏫
+* **always** listening to music. I am currently listening to Crumb. 🎵
+* playing with my 🐶, reading 📚, and hanging with my 👪 when I am not coding. 💻
 
 ### Fun Fact About Me:
 In my senior year of high school, I took a career aptitude test. The nun that ran the guidance office (it was a Catholic school) was very excited because I only had one result show up.  Because these were the olden days, she had to look up the given code to find out what my *perfect* career path would be. She told me that she had never seen a student get only one career as an option from the test, usually it provided a few. I must have found my calling! We both bent over the book, excited to find the match.  What??? Confusion. Looking at each other. Circus performer??  Checking to make sure we used the right code. Yup, circus performer. 😆
