@@ -77,7 +77,7 @@ In my senior year of high school, I took a career aptitude test. The nun that ra
 - Established electronic donations to maximize contributions and simplify bookkeeping
 - Collaborate on strategic planning, hiring and compensation of all contract employees, show logistics, grant writing, fundraising, and pivot to online content for Covid-19
 - Manage funds and bookkeeping, tax preparation, and annual budget
-### Primary Caregiver/Community Involvement
+### Primary Caregiver, Community Involvement
 *08/1998 - 10/2020*
 - Organized and coordinated varied needs of children and elderly family members while volunteering in the local community
 ### Head Teacher, Computer Associates Child Development Center
