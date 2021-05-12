@@ -26,9 +26,17 @@ In my senior year of high school, I took a career aptitude test. My guidance cou
 #### Head to my [portfolio](https://heather-berardo-noto.netlify.app/) for some demos 
 #### Visit my [LinkedIn](https://www.linkedin.com/in/heather-berardo-noto/)
 #### Contact me at heather.noto@gmail.com ✉️
+ 
+<a
+        href={resume}
+        aria-label="resume"
+        target="blank"
+        rel="noopener"
+        className={classes.resume}>Download my resume as a pdf<a/>
+  
 
 # Resume 
-<details><summary>Click To Expand</summary>
+<details><summary>View my resume here...</summary>
 
 # Heather Berardo Noto
 ## Full Stack Engineer
