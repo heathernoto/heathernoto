@@ -28,11 +28,11 @@ In my senior year of high school, I took a career aptitude test. My guidance cou
 #### Contact me at heather.noto@gmail.com ✉️
  
 <a
-        href={resume}
+        href=https://docs.google.com/document/d/1Q_qVEWLCtZztNkbH1G31eFeAAAkSLYl-MgitTf5u1B8/edit?usp=sharing
         aria-label="resume"
         target="blank"
         rel="noopener"
-        className={classes.resume}>Download my resume as a pdf<a/>
+        >Download my resume as a pdf<a/>
   
 
 # Resume 
