@@ -27,12 +27,12 @@ In my senior year of high school, I took a career aptitude test. My guidance cou
 #### Visit my [LinkedIn](https://www.linkedin.com/in/heather-berardo-noto/)
 #### Contact me at heather.noto@gmail.com ✉️
  
-<!-- <a
-        href=
+<a
+        href=https://heather-berardo-noto.netlify.app/static/media/Heather%20Berardo%20Noto%205:3:21.b48345fe.pdf
         aria-label="resume"
         target="blank"
         rel="noopener"
-        >Download my resume as a pdf<a/> -->
+        >Download my resume as a pdf<a/>
   
 
 # Resume 
