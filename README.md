@@ -4,8 +4,8 @@
  # Hi, I am...
  
 * based in the NYC metro area 🏙️
-* a full stack software engineer focused on the NERD stack. 🤓
-* currently, I'm working on an updated portfolio. 🎨
+* looking for my first job as a junior dev. Over the last year, I refreshed my HTML, CSS, learned JS, was accepted to Grace Hopper at Fullstack's bootcamp. 🤓
+* currently, I'm attending a lot of workshops and doing Mintbean Hackathons. Learning, learning, learning.🎨 Input, input, input! 😆
 * expanding my skills.  I'm learning about cloud storage and GraphQL and working my way through AlgoExpert.🏫
 * playing with my 🐶, reading 📚, and hanging with my 👪 when I am not coding. 💻
 * **always** listening to music.  🎵 All kinds of music.  For coding, I like something chill: like Crumb, Michael Kiwanuka, Leon Bridges, WFUV, etc.  For driving, things I can enthusiastically sing to: like ELO('Mr Blue Sky' on a sunny day!), Queen, Beastie Boys, Lizzo, you get the picture. 😆
