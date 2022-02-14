@@ -4,7 +4,7 @@
  # Hi, I am...
  
 * based in the NYC metro area 🏙️
-* looking for my first job as a junior dev. Over the last year, I refreshed my HTML, CSS, learned JS, was accepted to Grace Hopper at Fullstack's bootcamp. 🤓
+* in the beginning of a new chapter! During the pandemic, I refreshed my HTML, CSS, learned JS, was accepted to Grace Hopper at Fullstack's bootcamp. 🤓
 * currently, I'm attending a lot of workshops and doing Mintbean Hackathons. Learning, learning, learning.🎨 Input, input, input! 😆
 * expanding my skills.  I'm learning about cloud storage and GraphQL and working my way through AlgoExpert.🏫
 * playing with my 🐶, reading 📚, and hanging with my 👪 when I am not coding. 💻
