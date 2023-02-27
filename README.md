@@ -14,7 +14,7 @@
 In my senior year of high school, I took a career aptitude test. My guidance counselor was very excited because I only had one result show up.  Because these were the 'old' days, she had to look up the given code to find out what my *perfect* career path would be. She told me that she had never seen a student get only one career as an option from the test, usually it provided a few. I must have found my calling! We both bent over the book, excited to find the match.  What??? Confusion. Looking at each other. Circus performer??  Checking to make sure we used the right code. Yup, circus performer. 😆
 
 ## 🔧 Technologies and Tools
-![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Node.js&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=React&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Redux&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Express&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Sequelize&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=PostgreSql&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=MaterialUI&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=Git/GitHub&color=brightgreen)  
+![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Node.js&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=React&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Redux&color=brightgreen) ![](https://img.shields.io/badge/code-Jenkins-brightgreen) ![](https://img.shields.io/badge/code-Cypress-brightgreen) ![](https://img.shields.io/badge/code-Jest-brightgreen) ![](https://img.shields.io/badge/code-Storybook-brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Express&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Sequelize&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=PostgreSql&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=MaterialUI&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=Git/GitHub&color=brightgreen)  
 
 
 
@@ -54,7 +54,7 @@ In my senior year of high school, I took a career aptitude test. My guidance cou
 
 ## Technical Projects
 - Grace Hopper Program at Fullstack Academy*
-### Pin It https://pin-it-reader.herokuapp.com 
+### Pin It
 *02/2021 - 02/2021* 
 - Web app to store articles for on and offline reading. Capstone project written with three fellow students*
 - Automated collection of user-specified articles using Puppeteer’s web scraping functionality
@@ -69,7 +69,7 @@ In my senior year of high school, I took a career aptitude test. My guidance cou
 - Integrated Expo Camera and Facial Detection APIs
 - Generated fortunes using facial detection data to dictate prediction type
 - Styled app with CSS and displayed fortune using animation 
-### Tranquility https://tranquility-candles.herokuapp.com 
+### Tranquility 
 *01/2021 - 01/2021* 
  - A mock e-commerce site built within a week with two fellow students*
 - Constructed user database model, hooks, and instance methods using Sequelize
@@ -79,8 +79,10 @@ In my senior year of high school, I took a career aptitude test. My guidance cou
 - Styled components with Flexbox and CSS 
 
 ## Prior Experience
+### Software Engineer I, JPMorgan Chase
+ *08/2021 - present*
 ### Treasurer, Executive Board, Port Summer Show
-*12/2019 - current*
+*12/2019 - 02/2023*
 - Volunteer position at non-profit that produces a professionally directed and choreographed summer theater experience available to local teens while enriching the community
 - Established electronic donations to maximize contributions and simplify bookkeeping
 - Collaborate on strategic planning, hiring and compensation of all contract employees, show logistics, grant writing, fundraising, and pivot to online content for Covid-19
@@ -94,7 +96,7 @@ In my senior year of high school, I took a career aptitude test. My guidance cou
 - Facilitated positive communication between families and classroom staff 
 
 ## Skills
-JavaScript, React, Redux, HTML, CSS, Node.js, Git/GitHub, Express, Sequelize, PostgreSQL, Material-UI, Puppeteer, React Native, Expo Camera/Face Detector
+JavaScript, React, Redux, HTML, CSS, Node.js, Git/GitHub, TDD, Jest, Cypress Testing, Storybook, Jenkins, Express, Sequelize, PostgreSQL, Material-UI, Puppeteer, React Native, Expo Camera/Face Detector
 
 </details>
 
