@@ -8,7 +8,7 @@
 * currently, I'm attending a lot of workshops and doing Mintbean Hackathons. Learning, learning, learning.🎨 Input, input, input! 😆
 * expanding my skills.  I'm learning about cloud storage and GraphQL and working my way through AlgoExpert.🏫
 * playing with my 🐶, reading 📚, and hanging with my 👪 when I am not coding. 💻
-* **always** listening to music.  🎵 All kinds of music.  For coding, I like something chill: like Crumb, Michael Kiwanuka, Leon Bridges, WFUV, etc.  For driving, things I can enthusiastically sing to: like ELO('Mr Blue Sky' on a sunny day!), Queen, Beastie Boys, Lizzo, you get the picture. 😆
+* **always** listening to music.  🎵 All kinds of music.  For coding, I like something chill: like Crumb, Michael Kiwanuka, Japanese Breakfast, Lana DelRay, WFUV, etc.  For driving, things I can enthusiastically sing to: like ELO('Mr Blue Sky' on a sunny day!), Queen, Beastie Boys, Lizzo, you get the picture. 😆
 
 ### Fun Fact About Me:
 In my senior year of high school, I took a career aptitude test. My guidance counselor was very excited because I only had one result show up.  Because these were the 'old' days, she had to look up the given code to find out what my *perfect* career path would be. She told me that she had never seen a student get only one career as an option from the test, usually it provided a few. I must have found my calling! We both bent over the book, excited to find the match.  What??? Confusion. Looking at each other. Circus performer??  Checking to make sure we used the right code. Yup, circus performer. 😆
